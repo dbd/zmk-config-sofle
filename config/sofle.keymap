@@ -23,15 +23,6 @@
     resolution = <2>;
 };
 
-
-&encoder_left {
-    resolution = <2>;
-};
-
-&encoder_right {
-    resolution = <2>;
-};
-
 / {
 
 
@@ -43,13 +34,6 @@
         resolution = <2>;
     };
     
-    encoder_left {
-        resolution = <2>;
-    };
-
-    encoder_right {
-        resolution = <2>;
-    };
     
     // Activate ADJUST layer by pressing raise and lower
 
