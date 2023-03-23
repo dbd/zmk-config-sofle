@@ -16,22 +16,22 @@
 #define ADJUST 3
 
 &left_encoder {
-    resolution = <2>;
+    resolution = <4>;
 };
 
 &right_encoder {
-    resolution = <2>;
+    resolution = <4>;
 };
 
 / {
 
 
     left_encoder {
-        resolution = <2>;
+        resolution = <4>;
     };
 
     right_encoder {
-        resolution = <2>;
+        resolution = <4>;
     };
     
     
